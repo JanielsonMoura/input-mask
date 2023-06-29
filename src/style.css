@@ -1,0 +1,14 @@
+.container{
+    display: 'flex' !important;
+    flex-direction: row; 
+    width:'900px' !important;
+    background-color: aqua;
+}
+.chip{
+    border: 1px solid yellow;
+    color: black;
+    padding: 2px;
+    width: 250px;
+    border-radius: 20px;
+    background-color: white;
+}
